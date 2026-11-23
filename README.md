@@ -1,5 +1,13 @@
 ## Hi there 👋
+Hi!My name is Yong Zhe An,an undergraduate student pursuing a Bachelor of Computer Science(Graphic and Multimedia) at University Technology Malaysia(UTM),building on a background in physical science utm.I am passionate about 3D Modeling and visual media.So I aim to be a skilled 3D Modeler in the future.
 
+##Skills, Professional Interest & Learning Goals
+
+1.3D MODELING & DIGITAL ART Had learned how to building 3D models and assets using Autodesk tools
+
+2.Programming Applying C++ programming, digital logic, and graphics fundamentals
+
+3.Version Control/Portfolio Management Learning Git and GitHub workflows
 <!--
 **YONGZHEAN5512/YONGZHEAN5512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
