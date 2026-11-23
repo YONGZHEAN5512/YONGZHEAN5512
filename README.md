@@ -4,12 +4,6 @@ Information Technology Student | Aspiring Developer
 
 ""Typing SVG" (https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Information+Technology+Student;Learning+and+Building+with+C%2B%2B;Exploring+Computer+Graphics+%26+AI;Always+Learning%2C+Always+Growing)" (https://git.io/typing-svg)
 
-""GitHub" (https://img.shields.io/badge/GitHub-YONGZHEAN5512-181717?style=for-the-badge&logo=github)" (https://github.com/YONGZHEAN5512)
-""University" (https://img.shields.io/badge/University-UTM-0077B5?style=for-the-badge)" (https://www.utm.my/)
-""Email" (https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:yongzhean@graduate.utm.my)
-
-</div>---
-
 👨‍💻 About Me
 
 Hello! I'm Yong Zhe An, an Information Technology student at Universiti Teknologi Malaysia (UTM).
