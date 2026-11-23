@@ -99,6 +99,11 @@ Brief project description.
 Currently building my academic and technical foundation.
 
 Achievements and certifications will be added here when available.
+## 🌐 Languages
+
+- 🇬🇧 English
+- 🇲🇾 Malay (Bahasa Melayu)
+- 🇨🇳 Mandarin (中文)
 
 📫 Contact Information
 
