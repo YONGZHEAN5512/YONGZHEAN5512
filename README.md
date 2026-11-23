@@ -52,7 +52,6 @@ I'm an Information Technology student from Malaysia with an interest in programm
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YONGZHEAN5512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGZHEAN5512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
 
 <img width="95%" src="https://streak-stats.demolab.com?user=YONGZHEAN5512&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 
